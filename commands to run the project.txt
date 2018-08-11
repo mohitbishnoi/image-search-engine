@@ -1,0 +1,4 @@
+For Index
+python index.py --dataset dataset --index index.csv
+For Search
+python search.py --index index.csv --query queries/127502.png --result-path dataset
